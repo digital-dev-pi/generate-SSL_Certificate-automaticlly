@@ -1,4 +1,4 @@
-# generate-SSL_Certificate-automaticlly
+# generate-SSL_Certificate-automatically
 This script provides a server and client component to generate a self-signed SSL certificate with a self-generated Certificate Authority (CA).
 
 ## Use
